@@ -6,6 +6,8 @@
 
 ## [服务端接口传送门](https://github.com/majun00/egg-api)
 
+## [部署项目到服务器](https://github.com/majun00/egg-api/blob/master/server.md)
+
 ## 项目运行
 
 ```
